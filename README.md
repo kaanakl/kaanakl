@@ -15,9 +15,7 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=kaanakl&theme=radical&no-frame=true" alt="GitHub Trophies" />
-</p>
+![GitHub Stats](https://ghstats.dev/api/card?username=kaanakl&theme=tokyonight)
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaanakl&theme=radical" alt="GitHub Streak" />
