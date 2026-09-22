@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=kaanakl&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaanakl&theme=radical&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 <p>
