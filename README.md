@@ -26,5 +26,5 @@
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kaan-akal)
+- **LinkedIn:** [Kaan Akal](https://www.linkedin.com/in/kaan-akal)
 - **Email:** akalkaan20@gmail.com
