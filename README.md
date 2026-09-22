@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaanakl&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=kaanakl&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p>
