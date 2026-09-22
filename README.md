@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Kaan!
 
-<!--
-**kaanakl/kaanakl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm a Computer Science student at El Camino College focusing on C++ coding language.
+- 🚀 Passionate about data science, AI, and game development.
+- 🔭 Always looking to collaborate on interesting open-source projects, building my own projects or data-driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaanakl&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaanakl&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kaan-akal)
+- **Email:** akalkaan20@gmail.com
